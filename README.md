@@ -1,4 +1,4 @@
-# Project Title : loan-default-risk-analysis
+# Loan Default Risk Analysis: Feature Engineering and Prediction
 ### Introduction:
 We will build a foundational understanding of risk analytics in banking and financial services, focusing on how data is leveraged to minimize the financial risk of lending to customers.
 ### Objective:
@@ -22,7 +22,7 @@ step3: In the jupytor notebook ,click on the New button so that it can create ne
 
 Step4: then import numpy ,pandas matplotlib and seaborn in that page and start writng the code.
 
-### Business Insights through Visualization:
+### Feature Enginerring:
 1.
 
 
