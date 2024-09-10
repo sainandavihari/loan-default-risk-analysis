@@ -22,8 +22,6 @@ step3: In the jupytor notebook ,click on the New button so that it can create ne
 
 Step4: then import numpy ,pandas matplotlib and seaborn in that page and start writng the code.
 
-### Feature Enginerring:
-1.
 
 
 
